@@ -444,7 +444,7 @@ a {
 }
 
 .card {
-  max-width: 70dvw;
+  max-width: 1050px;
   min-height: 70svh;
   min-width: 975px;
   background-color: #fff;
