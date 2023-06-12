@@ -480,8 +480,7 @@ a {
     padding: .5rem .75rem;
   }
 
-  .width-65.width-100--tablet,
-  .width-35.width-100--tablet {
+  .width-65.width-100--tablet, .width-35.width-100--tablet {
     max-width: 100%;
     min-width: 100%;
   }
@@ -541,8 +540,7 @@ a {
     padding: 1rem;
   }
 
-  .div-block,
-  .padding-top-small-mobile {
+  .div-block, .padding-top-small-mobile {
     padding-top: 1rem;
   }
 
@@ -601,19 +599,12 @@ a {
   .card {
     max-height: 95px;
     max-width: 97dvw;
-    min-height: 90svh;
+    min-height: 95svh;
     min-width: 97dvw;
   }
 }
 
-#w-node-_8d800f4a-9291-0f92-6bb7-08f1ced4baae-49901e6d,
-#w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-49901e6d,
-#w-node-_8d800f4a-9291-0f92-6bb7-08f1ced4baae-262c8480,
-#w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-262c8480,
-#w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-0b824c14,
-#w-node-_9ec74e8b-0675-c774-187a-e306bdcc17a6-0b824c14,
-#w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-1f6e805d,
-#w-node-_9ec74e8b-0675-c774-187a-e306bdcc17a6-1f6e805d {
+#w-node-_8d800f4a-9291-0f92-6bb7-08f1ced4baae-49901e6d, #w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-49901e6d, #w-node-_8d800f4a-9291-0f92-6bb7-08f1ced4baae-262c8480, #w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-262c8480, #w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-0b824c14, #w-node-_9ec74e8b-0675-c774-187a-e306bdcc17a6-0b824c14, #w-node-b3062db8-3e1a-10d7-ee47-73d4d757a7d8-1f6e805d, #w-node-_9ec74e8b-0675-c774-187a-e306bdcc17a6-1f6e805d {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -625,7 +616,6 @@ a {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'Inter';
   src: url('../fonts/Inter-SemiBold.woff') format('woff');
@@ -633,7 +623,6 @@ a {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'Inter';
   src: url('../fonts/Inter-Medium.woff') format('woff');
@@ -641,7 +630,6 @@ a {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'Inter';
   src: url('../fonts/Inter-Regular.woff') format('woff');
